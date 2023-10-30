@@ -2,7 +2,7 @@
   "name": "react-investment-calculator",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://{KarlaGonzalez}.github.io/{investmentsApp}",
+  "homepage": "http://{KarlaGonzalez}.github.io/{investmentsApp/}",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
